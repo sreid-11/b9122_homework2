@@ -1,3 +1,5 @@
+### HW2 - Question 2: Make changes to at least one of the added files
+
 from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request
